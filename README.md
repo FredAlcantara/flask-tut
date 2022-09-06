@@ -1,1 +1,2 @@
-"# flask_tut" 
+#Flask tutorial 
+Learning how to use flask
