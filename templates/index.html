@@ -1,20 +1,4 @@
-<html>
-    <head>
-        <title>Home Page</title>
-        </head>
-        <body>
-            <h1>Smile - Home Page</h1>
-            <p>Welcome to Smile</p>
-                {% for x in content %}
-                    <p>{{x}}</p>
-                    {% if x == "M1" %}
-                    <p>Big m1 I will be there in 10</p>
-                    {% else %}
-                    <p>none.</p>
-                    {% endif %}
-                {% endfor %}
-            
-        </body>
-        
-    </head>
-</html>
+{% extends "base.html" %} {% block title %}Home Page{% endblock %} {%block
+content %}
+<h1>Testing</h1>
+{% endblock %}
