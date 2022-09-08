@@ -1,2 +1,0 @@
-*To implement qoute slideshow in the hero banner
-*learn how to use ccs with flask as it is current not working
