@@ -10,6 +10,8 @@
 .box {
     opacity: 0;
     position:absolute;
+    width: 100%;
+    font-size: 15px;
 }
 
 .b1 {
