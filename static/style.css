@@ -13,15 +13,23 @@
 }
 
 .b1 {
-    animation: ani1 8s infinite;
+    animation: ani1 15s infinite;
 }
 
 .b2 {
-    animation: ani2 8s infinite;
+    animation: ani2 15s infinite;
 }
 
 .b3 {
-    animation: ani3 8s infinite;
+    animation: ani3 15s infinite;
+}
+
+.b4 {
+    animation: ani4 15s infinite;
+}
+
+.b5 {
+    animation: ani5 15s infinite;
 }
 
 @keyframes ani1{
@@ -62,6 +70,34 @@
     }
 
     60%{
+        opacity: 0;
+    }
+}
+
+@keyframes ani4{
+    60%{
+        opacity: 0;
+    }
+
+    70%{
+        opacity: 1;
+    }
+
+    80%{
+        opacity: 0;
+    }
+}
+
+@keyframes ani5{
+    80%{
+        opacity: 0;
+    }
+
+    90%{
+        opacity: 1;
+    }
+
+    100%{
         opacity: 0;
     }
 }
