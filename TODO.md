@@ -9,6 +9,6 @@
 - [x] implement image carousel
 - [x] add login button
 - [x] create base page footer
-- [ ] implement an about us page
-- [ ] implement contact us page
-- [ ] implement registeration 
+- [ ] implement an about page
+- [ ] implement a contact page
+- [ ] implement registration functionality
