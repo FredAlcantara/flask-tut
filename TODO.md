@@ -9,6 +9,7 @@
 - [x] implement image carousel
 - [x] add login button
 - [x] create base page footer
+- [ ] understand functionality of GET and POST request
 - [ ] implement an about page
 - [ ] implement a contact page
 - [ ] implement registration functionality
